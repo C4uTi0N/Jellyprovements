@@ -2,3 +2,6 @@
     display: none;
 }
 
+.layout-desktop .emby-tabs-slider {
+    display:flex
+}
