@@ -1,42 +1,42 @@
-.buttons 
+.layout-desktop .buttons 
 {
 display: flex;
 height: 35px;
 justify-content: space-between;
 }
 
-.buttons div[dir="ltr"] 
+.layout-desktop .buttons div[dir="ltr"] 
 {
 position: fixed;
 left: 50%;
 transform: translateX(-50%);
 }
 
-.btnSubtitles
+.layout-desktop .btnSubtitles
 {
 position: fixed;
 left: 10px;
 }
 
-.btnAudio 
+.layout-desktop .btnAudio 
 {
 position: fixed;
 left: 50px;
 }
 
-.volumeButtons
+.layout-desktop .volumeButtons
 {
 position: fixed;
 right: 95px;
 }
 
-.btnVideoOsdSettings
+.layout-desktop .btnVideoOsdSettings
 {
 position: fixed;
 right: 50px;
 }
 
-.btnFullscreen
+.layout-desktop .btnFullscreen
 {
 position: fixed;
 right: 10px;
