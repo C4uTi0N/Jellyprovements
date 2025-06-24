@@ -1,7 +1,3 @@
 .layout-desktop .itemName.originalTitle {
     display: none;
 }
-
-.layout-desktop emby-tabs.emby-tabs-slider.emby-button {
-    display: none;
-}
