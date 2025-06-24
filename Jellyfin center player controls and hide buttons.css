@@ -1,0 +1,51 @@
+.buttons 
+{
+display: flex;
+height: 35px;
+justify-content: space-between;
+}
+
+.buttons div[dir="ltr"] 
+{
+position: fixed;
+left: 50%;
+transform: translateX(-50%);
+}
+
+.btnSubtitles
+{
+position: fixed;
+left: 10px;
+}
+
+.btnAudio 
+{
+position: fixed;
+left: 50px;
+}
+
+.volumeButtons
+{
+position: fixed;
+right: 95px;
+}
+
+.btnVideoOsdSettings
+{
+position: fixed;
+right: 50px;
+}
+
+.btnFullscreen
+{
+position: fixed;
+right: 10px;
+}
+
+
+.osdTimeText,
+.btnUserRating,
+.btnPip 
+{
+display: none;
+}
