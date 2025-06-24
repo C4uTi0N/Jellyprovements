@@ -5,6 +5,11 @@ Center player controls and remove unused buttons:
 @import url("https://cdn.jsdelivr.net/gh/C4uTi0N/Jellyprovements@main/Jellyfin-center-player-controls.css");
 ```
 
+Hide things
+```css
+@import url("https://cdn.jsdelivr.net/gh/C4uTi0N/Jellyprovements@main/Hide-stuff.css");
+```
+
 Static sidebar
 ```css
 @import url("https://cdn.jsdelivr.net/gh/C4uTi0N/Jellyprovements@main/Static-sidebar.css");
