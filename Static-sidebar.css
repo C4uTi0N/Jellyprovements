@@ -13,7 +13,7 @@
 }
 
 /* Shift content to the right */
-.layout-desktop .tabContent:not(#quickConnectPreferencesPage, #editItemMetadataPage) {
+.layout-desktop .libraryPage:not(#quickConnectPreferencesPage, #editItemMetadataPage) {
     margin-left: 250px !important;
 }
 /* Hide transition on page load */
