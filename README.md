@@ -7,5 +7,10 @@ Center player controls and remove unused buttons:
 
 Static sidebar
 ```css
-@import url("https://cdn.jsdelivr.net/gh/C4uTi0N/Jellyprovements@main/Static-sidebar");
+@import url("https://cdn.jsdelivr.net/gh/C4uTi0N/Jellyprovements@main/Static-sidebar.css");
+```
+
+Rounded cards
+```css
+@import url("https://cdn.jsdelivr.net/gh/akhi07rx/scyfin-jellyfin@main/CSS/rounded-cards.css");
 ```
