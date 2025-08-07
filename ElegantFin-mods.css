@@ -1,0 +1,20 @@
+/* testing: this brings back the original ElegantFin header design */
+
+.skinHeader-blurred:not(.osdHeader) {
+    backdrop-filter: var(--blurLarge);
+    background: var(--headerColor);
+    border: var(--defaultBorder);
+    border-width: 0 0 var(--borderWidth) 0;
+}
+
+.skinHeader-blurred:not(.osdHeader):not(.semiTransparent)::after {
+    content: none;
+}
+
+.headerTabs.sectionTabs {
+    height: 4em;
+}
+
+  :root{
+    --cardHoverEffect: none;
+  }
