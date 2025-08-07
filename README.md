@@ -19,3 +19,8 @@ Rounded cards (scyfin)
 ```css
 @import url("https://cdn.jsdelivr.net/gh/akhi07rx/scyfin-jellyfin@main/CSS/rounded-cards.css");
 ```
+
+ElegantFin Mods
+```css
+@import url("https://cdn.jsdelivr.net/gh/C4uTi0N/Jellyprovements@main/ElegantFin-mods.css");
+```
