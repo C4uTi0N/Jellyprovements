@@ -1,3 +1,7 @@
 .layout-desktop .itemName.originalTitle {
     display: none;
 }
+
+:root{
+    --cardHoverEffect: none;
+}
